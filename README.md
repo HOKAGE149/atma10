@@ -42,7 +42,7 @@ third_take
 GroupKFold(n_split=5)
 
 ### Public_Notebook_SSL_Color.ipynb
-ディスカッションにおける[palette embedding](https://www.guruguru.science/competitions/16/discussions/fddee5ac-f7a1-4ed6-bac6-fbc81668a465/)のnotebook.
+ディスカッションにおける[palette embedding](https://www.guruguru.science/competitions/16/discussions/fddee5ac-f7a1-4ed6-bac6-fbc81668a465/)のnotebook.  
 作成した画像をXceptionを用いて予測.
 
 ### run_feature.ipynb
