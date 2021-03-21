@@ -34,7 +34,9 @@ third_take
 
 ## notebook
 全てGoogle Colaboratory上で動かすことを想定しています.
+
 出力ファイルを利用するのでパスを適宜変更する必要があります．
+
 以下の順番に実行いただければ問題ないと思います.
 
 ### run_folds.ipynb
