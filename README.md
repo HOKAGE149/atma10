@@ -30,6 +30,8 @@ third_take
 └── README.md
 ```
 
+* first_takeとsecond_takeの, model_tempは空で大丈夫です.
+* first_takeはPublic_Notebook_SSL_Color.ipynbはありません.
 * lid.176.binは, [Language identification・fastText](https://fasttext.cc/docs/en/language-identification.html)からダウンロード可能です.
 
 ## notebook
