@@ -1,3 +1,7 @@
-# atma10
+# atmaCup10 HOKAGE's solution
 
-# どうやってやんの
+[HOKAGE](https://www.guruguru.science/HOKAGE149)の再現コードです.
+
+
+`$hoge = 1`
+
