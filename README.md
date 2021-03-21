@@ -1,6 +1,6 @@
 # atmaCup10 HOKAGE's solution
 
-[HOKAGE](https://www.guruguru.science/HOKAGE149)の再現コードです.
+[atmaCup10](https://www.guruguru.science/competitions/16/)における[HOKAGE](https://www.guruguru.science/HOKAGE149)の再現コードです.
 
 ## 概略
 * モデルはLGBM
@@ -30,3 +30,7 @@ third_take
 └── README.md
 ```
 
+## notebook
+全てGoogle Colaboratory上で動かすことを想定しています.
+
+以下の順番に
